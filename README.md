@@ -81,3 +81,5 @@ container serving on port 8080 (`CTRL+C` to stop it):
 ```
 $ docker run --rm -it -p 8080:80 healthchecks/dashboard
 ```
+
+Pages
